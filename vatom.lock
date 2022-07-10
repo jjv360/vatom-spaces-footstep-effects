@@ -1,0 +1,14 @@
+{
+  "id": "jjv360.footsteps",
+  "name": "Footstep Effects",
+  "version": "1.0.0",
+  "beta": true,
+  "description": "Adds footstep effects when walking",
+  "longDescription": "This plugin adds footprint effects and sound effects when users walk around.",
+  "configuration": "None",
+  "category": "Styling",
+  "businessId": "cDFoSSRVe4",
+  "price": 0,
+  "releaseNotes": "None",
+  "entrypoint": ""
+}
